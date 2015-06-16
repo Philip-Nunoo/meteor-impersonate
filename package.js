@@ -11,10 +11,10 @@ Package.onUse(function(api) {
 
   api.versionsFrom('1.1.0.2');
   api.use([
-    'gwendall:body-events',
+    'gwendall:body-events@0.1.4',
     'templating',
     'accounts-base',
-    'iron:router'
+    'iron:router@1.0.7'
   ], 'client');
 
   api.use([
