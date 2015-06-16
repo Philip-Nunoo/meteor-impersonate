@@ -13,8 +13,7 @@ Package.onUse(function(api) {
   api.use([
     'gwendall:body-events',
     'templating',
-    'accounts-base',
-    'iron:router'
+    'accounts-base'
   ], 'client');
 
   api.use([
