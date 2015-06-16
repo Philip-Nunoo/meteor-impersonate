@@ -37,6 +37,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('nunoo:impersonate');
+  api.use('philip100:impersonate');
   api.addFiles('impersonate-tests.js');
 });
