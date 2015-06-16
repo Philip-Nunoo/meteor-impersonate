@@ -1,6 +1,6 @@
 Package.describe({
   name: 'philip100:impersonate',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: "Impersonate other users and provide assistance as admin.",
   git: 'https://github.com/Philip-Nunoo/meteor-impersonate.git',
   documentation: 'README.md'
