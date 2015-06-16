@@ -8,7 +8,7 @@ With some improvements
 ## Installation ##
 
 ```shell
-meteor add nunoo:impersonate
+meteor add philip100:impersonate
 ```
 
 ##Configuration ##
