@@ -1,8 +1,7 @@
 Package.describe({
   name: 'nunoo:impersonate',
   version: '0.0.1',
-  // Brief, one-line summary of the package.
-  summary: '',
+  summary: "Impersonate other users and provide assistance as admin.",
   git: 'https://github.com/Philip-Nunoo/meteor-impersonate.git',
   documentation: 'README.md'
 });
